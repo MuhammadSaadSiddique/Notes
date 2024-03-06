@@ -1,0 +1,7 @@
+
+
+
+# First Stage
+
+	Surah Luqman
+	

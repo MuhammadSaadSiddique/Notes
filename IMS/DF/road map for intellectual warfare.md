@@ -1,0 +1,64 @@
+definition: clash of vision, concepts, images and interpretation of them.
+
+# Courage
+- mental and moral strength to venture, preserve, and withstand 
+- stand with right
+	- with words tell 
+	- with actions
+	- with silence
+- courage and cowardice
+	- commitment vs lack
+	- endurance vs self proe
+	- determination
+	- truthful
+	- boldness
+	- bravery
+- types
+	- physical
+	- emotional
+	- intellectual
+	- social
+	- moral
+	- spiritual
+- surah baqarah : 143
+	- qibla change in middle of namaz test of courage
+- al imran 110
+- courage of sahaaba RA
+	- hazrat abu bakar
+		- openly say Muhammad SAWW is not among us.
+	- Khadija
+		- sacrifice his money
+		- train girls same on shabiyats
+	- Ali
+	- Ibrahim
+		- sacrifize child 
+		- left them in desert
+	- hajra
+	- Mother of musa
+	- courage of Palestine
+		- 78% improve relationship with allah
+		- 85%
+- 5 tools from phil stutz
+	- welcome adversity
+	- channeling love
+		- find possitive in bad peoples
+	- embracing your whole self
+		- accept you bad and good parts
+	- creating a graditude loop
+	- keep a sense of urgency
+- how to from seerah
+	- strengthen your faith
+		- Allah, Quran, 
+		- every thing belongs to Allah.
+	- Acquire Knowledge
+	- self realization
+		- check your strengths
+	- identify your fear
+		- 
+	- get comfortable with being uncomfortable
+	- practice other attributes for developing courage
+		- Sahi Bukhari Hadees: Munafiq ki 3 nishanian hain jhoot boly, wada khilafi kry, amanat mein khiaynat kry
+	- set higher goals
+		- deen ko pehlany aly banana hoga
+	- make Dua
+		- 
