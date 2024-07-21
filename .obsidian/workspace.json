@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e342784fe088bb1d",
+        "id": "d4ae167c04c3bc44",
         "type": "tabs",
         "children": [
           {
-            "id": "ba4cf46529f2f3a1",
+            "id": "b1d6ec8165890161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMS/DF/road map for intellectual warfare.md",
+                "file": "politics/Kashmir Session.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "933d2d94fce903b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IMS/Haiya lal falah Chp lahore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "625b70b0f151562f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reflections on Surah Yusuf.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,14 +110,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMS/DF/road map for intellectual warfare.md",
+                "file": "Reflections on Surah Yusuf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMS/DF/road map for intellectual warfare.md",
+                "file": "Reflections on Surah Yusuf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMS/DF/road map for intellectual warfare.md"
+                "file": "Reflections on Surah Yusuf.md"
               }
             }
           }
@@ -133,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,28 +171,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f37d48f8463928b",
+  "active": "625b70b0f151562f",
   "lastOpenFiles": [
-    "EI/25-jan.md",
-    "Islamic/Quran Class 1.md",
-    "Untitled.canvas",
+    "Reflections on Surah Yusuf.pdf",
+    "IMS/Haiya lal falah Chp lahore.md",
+    "Reflections on Surah Yusuf.md",
     "CT/27 - Class  1.md",
-    "Islamic/Allah name.md",
-    "Islamic/Dua.md",
-    "Islamic/Quran topics.md",
-    "2024-03-04.md",
-    "Physics.md",
-    "Islamic/turkish boy.md",
-    "IMS/DF/road map for intellectual warfare.md",
-    "IMS/DF",
+    "IMS/Importance of Imams in Islam.md",
+    "IMS/Lecture on Self-Esteem, Immigration, and Identity.md",
+    "IMS/Teen math.md",
+    "politics/Kashmir Session.md",
+    "perma/mystisicm.md",
+    "IMS/community/IMS Overview and Policies.md",
+    "IMS/community/Untitled.md",
+    "perma/mysticism notes.md",
+    "Islamic/Quran Class 1.md",
+    "politics",
     "Islamic/ussool tafseer.md",
-    "Awaiking from sleeplessness head/Author bio graphy.md",
+    "c202 meeting/5 May 2024.md",
+    "c202 meeting/zilhajj.md",
+    "perma/philosphy.md",
+    "perma/Ethics Class 26 May 2024.md",
+    "Islamic/Asool e tafsee C1 Live.md",
+    "Ethics Class 26 May 2024.md",
+    "Ethics Class 26 May 2024 1.md",
+    "Seerah Abu bakr/Khilafat.md",
+    "c202 meeting/30 April 2024.md",
+    "c202 meeting/21 may 2024 Dopamine.md",
+    "perma",
+    "c202 meeting/19 may 24.md",
+    "c202 meeting/14 may 2024.md",
+    "Pasted image 20240508222650.png",
+    "Pasted image 20240508201842.png",
+    "Pasted image 20240508200728.png",
+    "Pasted image 20240508200504.png",
+    "c202 meeting",
+    "11450BFE-8F04-4ACD-A75D-91DD856A1544.jpg",
+    "Pasted image 20240423213150.png",
+    "Quran",
+    "IMS/presenters",
+    "IMS/community",
+    "Seerah Abu bakr",
+    "Untitled.canvas",
+    "IMS/DF",
     "istlahi.jpeg",
-    "Digital Systems.md",
     "IMS",
-    "CT",
-    "Awaiking from sleeplessness head",
-    "EI",
-    "Islamic"
+    "CT"
   ]
 }

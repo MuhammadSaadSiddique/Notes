@@ -22,7 +22,7 @@ Name Quran used 60 times in quran
 Other names in quran (Asma ul Quran) in 140 places:
 - used for quran
 	- mushaf not in Quran 
-		- In Abu Bakar khilafat he asked for names and finalize name is mushaf
+		- In Abu Bakar [[khilafat]] he asked for names and finalize name is mushaf
 		- word in habshi meaning bind hui wi book
 		- Surah abasa- 13: do jildon k darmian kaghaz band diye jain sahifa kehlaty hain. 
 	- alquran
