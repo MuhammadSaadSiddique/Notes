@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMS/Haiya lal falah Chp lahore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "625b70b0f151562f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reflections on Surah Yusuf.md",
+                "file": "IMS/training/12 oct.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reflections on Surah Yusuf.md",
+                "file": "IMS/training/12 oct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reflections on Surah Yusuf.md",
+                "file": "IMS/training/12 oct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reflections on Surah Yusuf.md"
+                "file": "IMS/training/12 oct.md"
               }
             }
           }
@@ -171,36 +159,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "625b70b0f151562f",
+  "active": "933d2d94fce903b5",
   "lastOpenFiles": [
-    "Reflections on Surah Yusuf.pdf",
+    "perma/religion week 2.md",
+    "IMS/training/12 oct.md",
+    "IMS/training",
+    "IMS/community/IMS Overview and Policies.md",
+    "IMS/time mgt.md",
+    "IMS/Teen math.md",
+    "IMS/Lecture on Self-Esteem, Immigration, and Identity.md",
+    "IMS/Importance of Imams in Islam.md",
     "IMS/Haiya lal falah Chp lahore.md",
     "Reflections on Surah Yusuf.md",
-    "CT/27 - Class  1.md",
-    "IMS/Importance of Imams in Islam.md",
-    "IMS/Lecture on Self-Esteem, Immigration, and Identity.md",
-    "IMS/Teen math.md",
-    "politics/Kashmir Session.md",
-    "perma/mystisicm.md",
-    "IMS/community/IMS Overview and Policies.md",
     "IMS/community/Untitled.md",
+    "Awaiking from sleeplessness head/Author bio graphy.md",
+    "c202 meeting/1 may 2024.md",
+    "c202 meeting/5 May 2024.md",
+    "c202 meeting/8 may.md",
+    "c202 meeting/14 may 2024.md",
+    "c202 meeting/19 may 24.md",
+    "c202 meeting/21 may 2024 Dopamine.md",
+    "c202 meeting/30 April 2024.md",
+    "c202 meeting/zilhajj.md",
+    "Reflections on Surah Yusuf.pdf",
+    "politics/Kashmir Session.md",
+    "IT/Untitled.md",
+    "IT",
+    "CT/27 - Class  1.md",
+    "perma/mystisicm.md",
     "perma/mysticism notes.md",
     "Islamic/Quran Class 1.md",
     "politics",
     "Islamic/ussool tafseer.md",
-    "c202 meeting/5 May 2024.md",
-    "c202 meeting/zilhajj.md",
-    "perma/philosphy.md",
-    "perma/Ethics Class 26 May 2024.md",
-    "Islamic/Asool e tafsee C1 Live.md",
-    "Ethics Class 26 May 2024.md",
-    "Ethics Class 26 May 2024 1.md",
-    "Seerah Abu bakr/Khilafat.md",
-    "c202 meeting/30 April 2024.md",
-    "c202 meeting/21 may 2024 Dopamine.md",
     "perma",
-    "c202 meeting/19 may 24.md",
-    "c202 meeting/14 may 2024.md",
     "Pasted image 20240508222650.png",
     "Pasted image 20240508201842.png",
     "Pasted image 20240508200728.png",
@@ -213,9 +204,6 @@
     "IMS/community",
     "Seerah Abu bakr",
     "Untitled.canvas",
-    "IMS/DF",
-    "istlahi.jpeg",
-    "IMS",
-    "CT"
+    "istlahi.jpeg"
   ]
 }
